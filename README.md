@@ -7,7 +7,7 @@ Soy un joven desarrollador de software de 17 años apasionado por la tecnología
 ## 🚀 Habilidades
 - **Lenguajes de Programación:** Python, Java
 - **Desarrollo Web:** HTML y CSS
-- **Desarrollo de Aplicaciones:** Android
+- **Desarrollo de Aplicaciones:** Android Studio
 
 ## 📈 Estadísticas de GitHub
 [![Estadísticas de GitHub de Franklin](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)](https://github.com/tu-usuario)

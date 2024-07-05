@@ -1,6 +1,6 @@
 # Hi, I'm Franklin! 👋
 
-![Custom Banner](https://via.placeholder.com/1200x400)
+![Custom Banner](https://images7.alphacoders.com/122/1228014.png)
 
 I'm a passionate 17-year-old software developer from Costa Rica, currently working on various projects to enhance my skills and contribute to the tech community. I love facing new challenges and learning cutting-edge technologies.
 

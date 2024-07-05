@@ -19,12 +19,12 @@ I'm a software developer from Costa Rica, currently working on my progress to be
 - [Android App](link to project): Currently collaborating with fellow developers on an Android app project. It involves [brief description of the project, technologies used, etc.].
 
 ## 📫 Contact Me
-- **Email:** 
+- **Email:franklin.cyberdev@gmail.com** 
 
 Feel free to reach out if you'd like to collaborate on a project or just chat about technology!
 
 ## 🌱 Currently Learning
-- Python
+- Python, Java.
 
 ## ⚡ Fun Fact
 I'm a quick learner!

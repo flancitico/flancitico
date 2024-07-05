@@ -2,18 +2,18 @@
 
 ![Custom Banner](https://images7.alphacoders.com/122/1228014.png)
 
-I'm a passionate 17-year-old software developer from Costa Rica, currently working on various projects to enhance my skills and contribute to the tech community. I love facing new challenges and learning cutting-edge technologies.
+I'm a software developer from Costa Rica, currently working on my progress to be a junior.
 
 ## 🚀 Skills
 - **Programming Languages:** Python, Java
-- **Web Development:** HTML, CSS
+- **Web Development:** HTML, CSS, JS
 - **App Development:** Android Studio
 
 ## 🔭 Currently Working On
-- **Aquabot:** A project aimed at [brief description of the project, technologies used, etc.].
+- **Aquabot_web:** Is a personal project for highschool [This is a web about plants].
 
 ## 📈 GitHub Stats
-[![Franklin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+[![Franklin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flancitico&show_icons=true&theme=radical)](https://github.com/flancitico)
 
 ## 🌟 Featured Projects
 - [Android App](link to project): Currently collaborating with fellow developers on an Android app project. It involves [brief description of the project, technologies used, etc.].

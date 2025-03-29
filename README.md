@@ -7,7 +7,6 @@ I'm a software developer from Costa Rica, currently working on my progress to be
 ## 🚀 Skills
 - **Programming Languages:** Python, Java
 - **Web Development:** HTML, CSS, JS
-- **App Development:** Android Studio
 
 ## 🔭 Currently Working On
 - **Aquabot_web:** Is a personal project for highschool, this is a web about plants.
